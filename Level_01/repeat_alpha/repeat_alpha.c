@@ -6,7 +6,7 @@ int		main(int ac, char **av)
 	int count;
 
 	i = 0;
-	count = 0;
+	count = 1;
 	if (ac == 2)
 	{
 		while (av[1][i] != '\0')
